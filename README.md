@@ -4,7 +4,7 @@
 
 ### now studying coding course for JavaScript
 
-[![Barma's github stats](https://github-readme-stats.vercel.app/api?username=Google-Barma&show_icons=true&theme=radical)](https://github.com/Google-Barma)
+[![Barma's github stats](https://github-readme-stats.vercel.app/api?username=Google-Barma)](https://github.com/Google-Barma)
 
 
 ### LANGUAGE & TOOLS:
