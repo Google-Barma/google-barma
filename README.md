@@ -1,7 +1,7 @@
-### Hi there 👋
+### ✨ Hi everyone 👋 im Vadym, but everyone calls me Barma ✨
 
 <!--
-**Google-Barma/google-barma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Google-Barma/google-barma** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Barma's github stats](https://github-readme-stats.vercel.app/api?Google-Barma)](https://github.com/anuraghazra/github-readme-stats)
