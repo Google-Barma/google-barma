@@ -1,6 +1,7 @@
 ## ✨ Hi everyone 👋 im Vadym, but everyone calls me Barma ✨
 
-### I 🦧 managed to build a house 🏰, raise two sons 🏄‍♂️ 🚴 and plant a tree 🌴🌴🌴 =) a nice bonus to this, wife 🐉 and dog 🐕
+### I 🦧 managed to build a house 🏰, raise two sons 🏄‍♂️ 🚴 and plant a tree 🌴🌴🌴 =) 
+### a nice bonus to this, wife 🐉 and dog 🐕
 
 ### now studying coding course for JavaScript
 
