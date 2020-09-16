@@ -1,10 +1,10 @@
-## ✨ Hi everyone 👋 im Vadym, but everyone calls me Barma ✨
+##  Hi everyone 👋 im Vadym, but everyone calls me Barma 
 
 ### I 🦧 managed to build a house 🏰, raise two sons 🏄‍♂️ 🚴 and plant a tree 🌴🌴🌴 =) 
-### a nice bonus to this, wife 🐉 and dog 🐕
+### ✨ a nice bonus to this, wife 🐉 and dog 🐕 ✨
 
 ### now studying coding course for JavaScript
-
+ 
 [![Barma's github stats](https://github-readme-stats.vercel.app/api?username=Google-Barma)](https://github.com/Google-Barma)
 
 
