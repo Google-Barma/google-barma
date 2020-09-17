@@ -22,5 +22,6 @@
 [<img align="left" alt="Gulp" width="36px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/gulp.png" />]()
 [<img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/webpack.png" />]()
 [<img align="left" alt="NPM" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/npm.png" />]()
-[<img align="left" alt="Babel" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/webpack.png" />]()
+[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/bootstrap.png" />]()
+[<img align="left" alt="Babel" width="36px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/babel.png" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/js.png" />]()
