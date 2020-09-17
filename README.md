@@ -19,7 +19,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/html.png" />]()
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/css.png" />]()
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/sass.png" />]()
-[<img align="left" alt="Gulp" width="36px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/gulp.png" />]()
+[<img align="left" alt="Gulp" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/gulp.png" />]()
 [<img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/webpack.png" />]()
 [<img align="left" alt="NPM" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/npm.png" />]()
 [<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/bootstrap.png" />]()
