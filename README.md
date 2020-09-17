@@ -10,11 +10,11 @@
 
 ### STACK & TOOLS:
 
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/git.png" />]()
+[<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/git.png" />]()
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/terminal.png" />]()
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/github.png" />]()
-[<img align="left" alt="Photoshop" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/photoshop.png" />]()
-[<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/figma.png" />]()
+[<img align="left" alt="Photoshop" width="36px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/photoshop.png" />]()
+[<img align="left" alt="Figma" width="36px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/figma.png" />]()
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/vscode.png" />]()
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/html.png" />]()
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/css.png" />]()
