@@ -25,6 +25,6 @@
 [<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/bootstrap.png" />]()
 [<img align="left" alt="Babel" width="36px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/babel.png" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/js.png" />]()
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/react.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/react.png" />]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Google-Barma&theme=dark&layout=compact)](https://github.com/Google-Barma/github-readme-stats)
