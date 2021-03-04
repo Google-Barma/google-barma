@@ -1,6 +1,6 @@
 ## Hi everyone 👋 im Vadym, but everyone calls me Barma
 
-## MY PORTFOLIO (https://gb-portfolio.netlify.app/)
+## MY PORTFOLIO >>> https://gb-portfolio.netlify.app/
 
 ### now studying coding course for Node js
 
