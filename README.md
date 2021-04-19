@@ -1,8 +1,6 @@
-## Hi everyone 👋 im Vadym, but everyone calls me Barma
+## Hi everyone 👋 im Vadim, but everyone calls me Barma
 
 ## MY PORTFOLIO >>> https://gb-portfolio.netlify.app/
-
-### now studying coding course for Node js
 
 [![Barma's github stats](https://github-readme-stats.vercel.app/api?username=Google-Barma)](https://github.com/Google-Barma)
 
